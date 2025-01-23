@@ -11,6 +11,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        vazir: "var(--font-vazir)",
+        lalezar: "var(--font-lalezar)",
+      },
     },
   },
   plugins: [],
